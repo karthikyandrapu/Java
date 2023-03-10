@@ -51,16 +51,7 @@ obj2.sub();
 }
 
 
-class commandline{
-public static void main(String args[])
-{
-int i;
-for(i=0;i<args.length;i++)
-{
-System.out.println("Argument"+ (i+1) +":"+args[i]);
-}
-}
-}
+
 
 class datatypes{
 public static void main( String[] args)
